@@ -5,11 +5,10 @@
     transition: 0.4s;
     font-family: 'Raleway', sans-serif;
     user-select: none;
-    cursor: url(../img/cursor.png) , default;
 }
 
 button:hover {
-    cursor: url(../img/pointer.png) , pointer;
+    cursor: pointer;
 }
 
 ::selection {
