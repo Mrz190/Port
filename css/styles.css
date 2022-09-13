@@ -743,7 +743,7 @@ body::-webkit-scrollbar-thumb {
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url("../img/whoami_.jpg") center/cover;
+    background: url("../img/whoami_dark.jpg") center/cover;
 }
 
 .info-skills {
