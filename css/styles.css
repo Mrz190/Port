@@ -486,7 +486,7 @@ body::-webkit-scrollbar-thumb {
     cursor: pointer;
     border: none;
     text-shadow: -1px 1px 11px rgb(0, 213, 198);
-    font-size: 20px;
+    font-size: 18px;
     background: transparent;
     font-weight:bold;
     color: rgb(0, 213, 198);
